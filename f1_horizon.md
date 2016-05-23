@@ -8,4 +8,8 @@ He opened the application and he started to looking which places should visit. W
 - This app should be developed to iOS/Android, you can develop this application using Objective-C, Swift or Java. You can also use cross-platform technologies such as React Native.
 - You should use georeferencing techniques, to find the geographic position of the user and where is placed the museums or other points of interest.
 - You can use static set of points, that you should import to the assets of your application.
-- You will get extra points if you integrate the app with a backend, in order to create a way to easily insert new places. 
+- You will get extra points if you integrate the app with a backend, in order to create a way to easily insert new places.
+
+###Example
+
+![Horizon Example](/horizon.png =400x)
