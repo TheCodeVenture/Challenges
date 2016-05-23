@@ -12,4 +12,4 @@ He opened the application and he started to looking which places should visit. W
 
 ###Example
 
-<img src="/horizon.png" width="400">
+<img src="/imgs/horizon.png" width="400">
