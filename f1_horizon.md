@@ -12,4 +12,4 @@ He opened the application and he started to looking which places should visit. W
 
 ###Example
 
-![Horizon Example](/horizon.png =400x)
+![Horizon Example](/horizon.png)
