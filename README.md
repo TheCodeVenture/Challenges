@@ -6,6 +6,7 @@ Checkout our problems!
 - Clean code (use linters)
 - TDD techniques
 
+If you have any question, you can open an issue on GitHub or send us an email to info@thecodeventure.com.
 
 ##List
 
