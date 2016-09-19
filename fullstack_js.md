@@ -8,6 +8,7 @@ The list should have a mechanism to perform pagination of those stories, when th
 ###Requirements
 - This app should be developed in JavaScript both for backend and frontend.
 - You could use a database if you feel like
+- User experience is also evaluated
 
 ###References
 - [GitHub Oauth](https://developer.github.com/v3/oauth/)
