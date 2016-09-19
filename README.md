@@ -17,5 +17,5 @@ If you have any question, you can open an issue on GitHub or send us an email to
 
 ###FullStack
 
-- [Horizon](fullstack_js.md) 
+- [Hacker News](fullstack_js.md) 
 
