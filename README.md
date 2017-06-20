@@ -10,11 +10,6 @@ If you have any question, you can open an issue on GitHub or send us an email to
 
 ## List
 
-### Frontend
-
-- [Horizon](f1_horizon.md)
-
-
 ### FullStack
 
 - [Hacker News](fullstack_js.md) 
