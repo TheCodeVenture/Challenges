@@ -1,4 +1,4 @@
-Hacker News top stories
+Hacker News Feed
 
 The reader must use the Hacker News API to retrieve necessary data where the user can visualise in a usable and structured interface.
 
