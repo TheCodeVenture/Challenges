@@ -1,6 +1,6 @@
 Hacker News Feed
 
-The reader must use the Hacker News API to retrieve necessary data where the user can visualise in a usable and structured interface.
+The reader must use the Hacker News API to retrieve necessary data and develop an interface where the user can visualise Hacker News stories in an usable and structured way.
 
 ## User Story
 User should be able to choose which type of stories he wants to see listed by selecting one of these: "New", "Top" and "Best Stories".
