@@ -12,5 +12,6 @@ If you have any question, you can open an issue on GitHub or send us an email to
 
 ### FullStack
 
-- [Hacker News](fullstack_js.md) 
+- [FullStack Hacker News](fullstack_js.md) 
+- [Frontend Hacker News](frontend_js.md) 
 
